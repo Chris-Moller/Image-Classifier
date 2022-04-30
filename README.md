@@ -12,5 +12,5 @@ conda install -c anaconda pillow
 # Step 3: Launch Jupyter notebook and train keras model with cifar-10
 (Ensure you are within the env where tensorflow is installed)
 # Step 4: Save model and ensure it is in the same directory as GUI.py
-# Step 5: Run GUi.py
+# Step 5: Run GUI.py
 python3 GUI.py
