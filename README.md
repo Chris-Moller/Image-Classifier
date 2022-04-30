@@ -1,5 +1,5 @@
 # Image-Classifier
-A simple GUI and Image classifier using tensor flow
+A simple GUI and Image classifier using TensorFlow
 
 # Instructions
 # Step 1: create a virtual environment using anaconda and install Tensorflow
